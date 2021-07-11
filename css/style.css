@@ -343,7 +343,7 @@ object-fit: cover;
     justify-content: flex-end;
     padding: 15px;
 }
-.icon{
+.fad{
     color: #fff;
     font-size: 40px;
     transition: 0.3s linear;
